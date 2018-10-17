@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Just Beat</string>
+    <string name="pv"><![CDATA[I<]]></string>
+    <string name="nxt"><![CDATA[>I]]></string>
+    <string name="Play">II</string>
+</resources>
